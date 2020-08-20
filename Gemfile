@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rake', '~> 11.1'
+gem 'rake', '~> 12.3'
 gem 'colored', '~> 1.2'
 gem 'git', require: false
 
